@@ -1,0 +1,6 @@
+gurobi.lic
+
+*.csv
+*.png
+
+.ipynb_checkpoints/
